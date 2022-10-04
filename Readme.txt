@@ -1,9 +1,5 @@
 *******************************************************
 *  Name      :  Michael Hoover, Jacob Hutchins      
-*  Student ID:  109475011 (Michael)
-		106023519 (Jacob)             
-*  Class     :  CSC 2421           
-*  Due Date  :  December 11, 2019
 *******************************************************
 
 
